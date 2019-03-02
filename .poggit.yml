@@ -2,4 +2,5 @@
 branches:
 - master
 projects: [BuildBattle]
+level: BuildBattle
 ...
