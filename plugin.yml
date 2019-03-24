@@ -1,5 +1,5 @@
 name: BuildBattle
-main: kai\BB
+main: bb\BB
 api: [3.0.6]
 version: 1.4.0
 author: myval2
