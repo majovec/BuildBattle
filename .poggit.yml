@@ -3,5 +3,5 @@ branches:
 - PocketMine-MP
 projects:
   BuildBattle:
-  patch: BuildBattle
+   BuildBattle
 ...
