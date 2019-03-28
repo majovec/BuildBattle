@@ -2,7 +2,7 @@ name: BuildBattle
 main: bb\BB
 api: [3.0.6]
 version: 1.4.0
-author: myval2
+author: KaitoDoDoYt
 description: 
 commands: BuildBattle plugin
     bb:
